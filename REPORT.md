@@ -123,4 +123,4 @@ print(get("/debug/stats")["source_reads"] - before)
 
 ## Видео
 
-https://drive.google.com/drive/folders/1u_hjQtrXVgWff8WzTEq1aYc1n7CoiCuG?usp=sharing
+https://drive.google.com/drive/folders/1u_hjQtrXVgWff8WzTEq1aYc1n7CoiCuG?usp=sharing, длительность 186с
